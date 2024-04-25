@@ -1,4 +1,4 @@
 "# Esports-website" 
 <div align="center">
-   <img src="Homepage.jpeg" height="5000" alt="Screenshot"/> 
+   <img src="HomePage.jpeg" height="5000" alt="Screenshot"/> 
 </div>
